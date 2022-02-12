@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![acaulkin's github activity graph](https://activity-graph.herokuapp.com/graph?username=acaulkin&theme=nord)
+
 <!--
 **acaulkin/acaulkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
