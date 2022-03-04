@@ -16,5 +16,5 @@
 
 * 💻 I'm currently working on: Kubernetes manifests and development pipelines (day-job), NFT Platform (side-project), 
 * 📝 I'm currently learning about: Software analysis and testing techniques in [CS-6340 [C/C++, Java, JavaScript/TypeScript]](https://omscs.gatech.edu/cs-6340-software-analysis), refining my data structures and algorithms [Python], Go programming language [Go]
-* ⚡️ Fun-Fact: My favorite video game of all time is Old-School Runescape. 
+* ⚡️ Fun-Fact: My favorite video game of all time is [Old-School Runescape](https://oldschool.runescape.com/). 
 * 🙌🏽 Goal(s) of 2022: learn better techniques in building scalable systems and to perfect my basic data structures and algorithms skills. 
